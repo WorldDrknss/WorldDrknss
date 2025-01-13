@@ -9,5 +9,3 @@ Technically-inclined and methodical are two traits I bring to the table. I am op
 Looking forward to adding value to you!
 
 Expertise: IT Management, Infrastructure Administration, Cloud Engineering, Technical Development, Service Management, Solution Implementation, Security Development, UI/UX Design, Penetration Testing, CI/CD Development, Workflow Automation, Requirements Gathering, Resource Maximization, Change Development, Risk Mitigation, Issue Resolution
-
-![WorldDrknss' GitHub stats](https://github-readme-stats.vercel.app/api?username=WorldDrknss&count_private=true&show_icons=true&theme=radical)
